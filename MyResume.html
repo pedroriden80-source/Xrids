@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Riden Resume</title>
+</head>
+
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <h1>Pedro x Riden</h1>
+    <img src="./Profile Picture.jpg" alt="Profile Picture"
+     height="100"
+     width="100">
+    <p><strong>Web Developer</strong></p>
+  </header>
+
+  <hr>
+
+  <!-- Summary Section -->
+  <section>
+    <h2>Summary</h2>
+    <p>
+      A hardworking and dedicated Web Developer with strong skills in front-end technologies,
+      complemented by experience in administration and customer service. Passionate about building
+      clean, responsive, and user-friendly websites.
+    </p>
+  </section>
+
+  <hr>
+  <!-- Education Section -->
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li>Bachelor of Arts Information Technology - Kings College of the Phillippines(2024-2028)
+    </ul>
+  </section>
+  <hr>
+
+  <!-- Work Experience Section -->
+  <section>
+    <h2>Work Experience</h2>
+
+    <article>
+      <h3>Freelance Web Developer</h3>
+      <p><em>January 2029 Present</em></p>
+      <ul>
+        <li>Develop and maintain responsive websites using HTML, CSS, and JavaScript.</li>
+        <li>Collaborate with clients to convert design mockups into functional web applications.</li>
+        <li>Optimize website performance and ensure cross-browser compatibility.</li>
+      </ul>
+    </article>
+
+    <article>
+      <h3>Administrative Assistant -XYZ Corp.</h3>
+      <p><em>June 2030 Present</em></p>
+      <ul>
+        <li>Managed scheduling, meetings, and appointments.</li>
+        <li>Handled incoming and outgoing correspondence.</li>
+        <li>Prepared professional reports and presentations using Microsoft Office.</li>
+      </ul>
+    </article>
+
+  </section>
+
+  <hr>
+
+  <!-- Skills Section -->
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML & CSS:⭐️⭐️⭐️</li>
+      <li>JavaScript & React:⭐️⭐️⭐️</li>
+      <li>Customer Service:⭐️⭐️⭐️⭐️</li>
+      <li>Microsoft Office Suite:⭐️⭐️⭐️</li>
+      <li>Organizational Skills:⭐️⭐️⭐️⭐️</li>
+    </ul>
+  </section>
+
+  <hr>
+
+  <!-- Certifications Section -->
+  <section>
+    <h2>Awards & Certifications</h2>
+    <ul>
+      <li>Certified Professional Web Developer</li> 
+    </ul>
+  </section>
+
+  <hr>
+
+  <!-- Additional Information -->
+  <section>
+    <h2>Other Information</h2>
+    <ul>
+      <li><a href="./Hobbies.html ">My Hobbies</a></li>
+      <li><a href="./Contact.html">Contact Me</a></li>
+    </ul>
+  </section>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <p>@Pedro Riden. All rights reserved 2030.</p>
+  </footer>
+
+</body>
+</html>
